@@ -1,8 +1,8 @@
 {
-    "videoId": "testVideoId123", 
-    "title": "테스트 영상 제목입니다!",
-    "youtubeLink": "https://www.example.com/test-video",
-    "uploadedAt": "2023-11-16T09:00:00Z", 
-    "thumbnailUrl": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%88%91_%ED%94%84%EB%A6%AC%EC%A0%9C#/media/%ED%8C%8C%EC%9D%BC:Bichon_Fris%C3%A9_-_studdogbichon.jpg",
-    "description": "이것은 테스트용 영상 설명입니다" 
-  }
+    "videoId": "testVideoIdForGitHub123", // 고유한 테스트 ID
+    "title": "GitHub에서 가져온 테스트 영상!",
+    "youtubeLink": "https://www.example.com/test-video-on-github", // 아무 유효한 URL 형식
+    "uploadedAt": "2023-11-17T01:00:00Z", // 현재 시간 또는 테스트용 시간
+    "thumbnailUrl": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%88%91_%ED%94%84%EB%A6%AC%EC%A0%9C#/media/%ED%8C%8C%EC%9D%BC:Bichon_Fris%C3%A9_-_studdogbichon.jpg", // 제공해주신 이미지 URL
+    "description": "이것은 GitHub에 호스팅된 테스트용 영상 정보입니다."
+}
