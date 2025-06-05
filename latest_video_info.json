@@ -1,7 +1,7 @@
 {
-    "videoId": "testVideoIdForGitHub123", 
+    "videoId": "test123", 
     "title": "GitHub에서 가져온 테스트!",
-    "youtubeLink": "https://www.example.com/test-video-on-github", 
+    "youtubeLink": "https://www.youtube.com/watch?v=test123", 
     "uploadedAt": "2023-11-17T01:00:00Z",
     "thumbnailUrl": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%88%91_%ED%94%84%EB%A6%AC%EC%A0%9C#/media/%ED%8C%8C%EC%9D%BC:Bichon_Fris%C3%A9_-_studdogbichon.jpg", 
     "description": "이것은 GitHub에 호스팅된 테스트용 영상 정보입니다."
