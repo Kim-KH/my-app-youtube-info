@@ -1,8 +1,8 @@
 {
-    "videoId": "uniqueVideoId20250605", 
+    "videoId": "uniqueVideoId20250605",
     "title": "2025년 6월 테스트 영상",
-    "youtubeLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ", 
-    "uploadedAt": "2023-11-17T01:00:00Z",
-    "thumbnailUrl": "https://ko.wikipedia.org/wiki/%EB%B9%84%EC%88%91_%ED%94%84%EB%A6%AC%EC%A0%9C#/media/%ED%8C%8C%EC%9D%BC:Bichon_Fris%C3%A9_-_studdogbichon.jpg", 
-    "description": "이것은 GitHub에 호스팅된 테스트용 영상 정보입니다."
+    "youtubeLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "uploadedAt": "2025-06-05T01:00:00Z",
+    "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg", 
+    "description": "테스트용 유튜브 영상입니다."
 }
