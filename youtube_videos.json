@@ -1,17 +1,17 @@
 [
-    {
-      "date": "2024-05-20",
-      "title": "Capacitor 기초: 네이티브 기능 연동하기",
-      "youtubeLink": "https://www.youtube.com/watch?v=TEST_VIDEO_ID_1"
-    },
-    {
-      "date": "2024-05-18",
-      "title": "SortableJS로 드래그 앤 드롭 폴더 정렬 구현",
-      "youtubeLink": "https://www.youtube.com/watch?v=TEST_VIDEO_ID_2"
-    },
-    {
-      "date": "2024-05-15",
-      "title": "초급 단어 500개 뽀개기",
-      "youtubeLink": "https://m.youtube.com/watch?v=TEST_VIDEO_ID_3"
-    }
+  {
+    "date": "2025-06-05",
+    "title": "2025년 6월 테스트 영상",
+    "youtubeLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+    "date": "2024-05-20",
+    "title": "5월의 베스트 영상",
+    "youtubeLink": "https://www.youtube.com/watch?v=TEST_VIDEO_ID_1"
+  },
+  {
+    "date": "2024-05-18",
+    "title": "새로운 기능 소개",
+    "youtubeLink": "https://www.youtube.com/watch?v=TEST_VIDEO_ID_2"
+  }
 ]
